@@ -5,6 +5,7 @@
     padding: 0 !important;
     color: #393a3a;
     font-size: 18px;
+    font-weight: bolder;
   }
   
   @media (min-width: 576px) {
