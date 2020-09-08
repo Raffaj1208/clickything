@@ -6,4 +6,4 @@
 * Once you click a card the game will re-shuffle each card position
 * Try to remember which card you already clicked and earn as many points as you can.
 * Have fun!!
-* Heroku: https://git.heroku.com/sheltered-hollows-51251.git
+* Heroku: https://sheltered-hollows-51251.herokuapp.com/
